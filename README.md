@@ -251,7 +251,7 @@ En este trozo de codigo se muestra la estructura de la pagina web.
     </body>
 </html>
 ```
-**Descripción:**
+**Descripción:**<br>
 Se crea un título, una tabla que muestra la lista de archivos disponibles con dos columnas: "Nombre de Archivo" y "Acciones". También un área de consola donde se muestran mensajes sobre las acciones realizadas, como si fuera el puerto serie de la terminal. <br>
 La estructura del código HTML está organizada dentro de un contenedor principal, que define el diseño y la apariencia general de la página. Los estilos CSS proporcionados en la sección ```<style>``` definen el aspecto visual de los elementos HTML.<br>
 Esta pagina  HTML utiliza JavaScript para permitir la funcionalidad interactiva de la página, maneja eventos como la carga de la página y las interacciones del usuario, como la carga y eliminación de archivos. <br>
